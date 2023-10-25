@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Braden!
+<img src="https://github.com/bradenasmith2/bradenasmith2/blob/main/header.png?raw=true"/>
 
-### I Can Be Found Here
+## I Can Be Found Here
 
 
 ## Some of My Skills
