@@ -1,28 +1,35 @@
 <img src="https://github.com/bradenasmith2/bradenasmith2/blob/main/header.png?raw=true"/>
 
-I'm a passionate backend software developer with a strong interest in front-end. Committed to creating efficient, user-friendly applications. Eager to learn and stay current with industry trends and technologies.
+As software developer with a strong foundation in backend technologies, I have recently expanded my knowledge into front-end development. I am proficient in various front-end languages and committed to building efficient, user-friendly applications. My passion for continuous learning keeps me in the loop of the latest industry trends and technologies, enabling me to contribute effectively in a front-end or back-end role.
 <br>
 ## Some of My Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,visualstudio,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,github,cs,postgres,html,css,js,react)]()
 ## I Can Be Found Here
-[LinkedIn](https://www.linkedin.com/in/braden-smith2/)
+[LinkedIn](https://www.linkedin.com/in/braden-smith2/) <br>
+[bradenasmith(Portfolio)](https://bradenasmith.azurewebsites.net)
 
 ## More About Me
 ### 😄 Pronouns: He/Him
+<br>
 
 ### 📝 I’m currently working on
+[bradenasmith](https://bradenasmith.azurewebsites.net) - Currently Deployed!
+  <ul>
+    <li>My personal portfolio website. This includes all of my relevant information including my background, resume, learnings, and Github Repos.</li>
+  </ul>
+  
 [SceneSherpa](https://github.com/jcepriano/SceneSherpa)
   <ul>
     <li>An application that allows users to log in and track their media consumption. The intent is to allow users to provide valuable and genuine TV show/movie reccommendations. More information in the README</li>
   </ul>
-<strong>Refactoring</strong>: Now that I've picked up new skills with Identity Framework as well as a deeper understanding of SOLID, I am revisiting a lot of my repositories and upgrading them.
+
 <br>
 
 ### 🏫 I’m currently learning
 <div>
-  <li><strong>Identity Framework</strong>: Exploring the intricacies of Identity Framework to enhance user authentication and authorization in web applications.</li>
+  <li><strong>React</strong>: Learning the React framework to allow me to create more versatile, responsive pages resulting in a cleaner user experience.</li>
   <li><strong>Roles and Permissions</strong>: Gaining a deeper understanding of role-based access control and permissions management for creating more secure and versatile applications.</li>
-  <li><strong>Bootstrap</strong>: Developing proficiency in Bootstrap to design responsive and visually appealing user interfaces, ensuring a seamless user experience across devices.</li>
+  <li><strong>JavaScript</strong>: Increasing my knowledge in JS has allowed me to implement new features in existing projects that would've previously not been possible. My main focus is hiding/showing elements as needed, such as forms or buttons.</li>
 </ul>
 </div>
 
